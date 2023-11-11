@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "freedb_yelzhas",
+    "password": "C8Hsr#sG?$t7Hab",
+    "database": "freedb_yelzhas-shop",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "test": {
+    "username": "freedb_yelzhas",
+    "password": "C8Hsr#sG?$t7Hab",
+    "database": "freedb_yelzhas-shop",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "production": {
+    "username": "freedb_yelzhas",
+    "password": "C8Hsr#sG?$t7Hab",
+    "database": "freedb_yelzhas-shop",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
