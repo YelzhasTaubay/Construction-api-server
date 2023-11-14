@@ -9,7 +9,6 @@ export class ShoppingCartController {
   constructor(private readonly shoppingCartService: ShoppingCartService) {
   }
 
-  // I should write here Api Documentation OpenApi/Swagger
 
   @UseGuards(AuthenticatedGuard)
   @Get(':id')
